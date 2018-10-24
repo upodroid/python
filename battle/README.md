@@ -1,3 +1,7 @@
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 # Battleships in Python!
 
 Hi, this is our implementation of the battleships game.
